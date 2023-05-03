@@ -4,7 +4,7 @@ schema:
 dataSources:
   - kind: ethereum
     name: KKTEST
-    network: mumbai
+    network: mainnet
     source:
       address: "0x5e4BC916F9A68c59f139D93504926338895Bf42A"
       abi: KKTEST
