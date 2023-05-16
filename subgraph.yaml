@@ -8,7 +8,7 @@ dataSources:
     source:
       address: "0xE4E065915F166CD76803a43DA18318Ee150dF15D"
       abi: KKTEST
-      startBlock: 35121082
+      startBlock: 13823095
     mapping:
       kind: ethereum/events
       apiVersion: 0.0.7
